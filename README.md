@@ -15,3 +15,6 @@ Este repositório contém o resumo das lições aprendidas durante o desenvolvim
   - Paas: Modelo de computação em nuvem que oferece uma plataforma para desenvolver, implantar, executar e gerenciar aplicativos.
   - Saas: Modelo de entrega de software que permite aos usuários acessar aplicativos baseados em nuvem pela internet    
 ![image](https://github.com/user-attachments/assets/559efe29-4cf3-45d0-aafc-eeb8bed46abe)
+* Aula 4
+* - Importancia da definição do tipo de serviço
+  - O uso da calculadora disponibilizda pelo serviço microsoft para se ter uma previsão de custos
